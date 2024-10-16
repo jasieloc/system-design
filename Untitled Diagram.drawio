@@ -79,9 +79,6 @@
         <mxCell id="O5tH6Xp0k4o9Z1qEsjQc-24" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
           <mxGeometry x="243" y="680" width="37" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O5tH6Xp0k4o9Z1qEsjQc-25" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;" vertex="1" parent="1">
-          <mxGeometry x="750" y="500" width="28" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="O5tH6Xp0k4o9Z1qEsjQc-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
           <mxGeometry x="940" y="90" width="70" height="64" as="geometry" />
         </mxCell>

@@ -16,8 +16,8 @@
         <mxCell id="Hi555N7dm8DbJ_s_1SJW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="296" width="330" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Hi555N7dm8DbJ_s_1SJW-1" value="Current System Design" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="40" y="25" width="260" height="40" as="geometry" />
+        <mxCell id="Hi555N7dm8DbJ_s_1SJW-1" value="App Common System Design v1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="30" y="20" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hi555N7dm8DbJ_s_1SJW-2" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="675" y="433" width="60" height="80" as="geometry" />

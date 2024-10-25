@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
   <diagram name="Page-1" id="NKPnQRwSP1cfZ27L-5-N">
-    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Hi555N7dm8DbJ_s_1SJW-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="620" y="150" width="180" height="235" as="geometry" />
+        </mxCell>
         <mxCell id="Hi555N7dm8DbJ_s_1SJW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hi555N7dm8DbJ_s_1SJW-44" target="Hi555N7dm8DbJ_s_1SJW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -67,17 +70,14 @@
         <mxCell id="Hi555N7dm8DbJ_s_1SJW-13" value="AWS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="150" y="316" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hi555N7dm8DbJ_s_1SJW-15" value="Apple Login" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Hi555N7dm8DbJ_s_1SJW-15" value="Google" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="191" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hi555N7dm8DbJ_s_1SJW-16" value="Google Login" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Hi555N7dm8DbJ_s_1SJW-16" value="Apple" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="251" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hi555N7dm8DbJ_s_1SJW-17" value="Meta Login" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Hi555N7dm8DbJ_s_1SJW-17" value="Facebook" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="311" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Hi555N7dm8DbJ_s_1SJW-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="620" y="150" width="180" height="235" as="geometry" />
         </mxCell>
         <mxCell id="Hi555N7dm8DbJ_s_1SJW-19" value="Identity Providers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="650" y="161" width="120" height="30" as="geometry" />
